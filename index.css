@@ -1,0 +1,23 @@
+body{
+  margin: 0;
+  background-color: black;
+}
+
+
+h1{
+  font-family: 'Roboto Mono', monospace;
+  color: white;
+  margin-top: 20px;
+  margin-left: 50px;
+}
+
+#map{
+  margin-left: 50px;
+}
+
+#menu {
+position: absolute;
+background: #fff;
+padding: 10px;
+font-family: 'Open Sans', sans-serif;
+}
